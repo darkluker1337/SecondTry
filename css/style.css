@@ -1,0 +1,27 @@
+
+body{ 
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+}  
+
+.container{
+    align-items: center;
+    margin-top: 5%;
+    font-family: "Game of Thrones";
+    text-align: center;
+
+    letter-spacing: 3px;
+    color: white;
+}
+.timer{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.timer span{
+    font-size: 150%;
+    
+}
